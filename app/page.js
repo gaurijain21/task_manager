@@ -12,7 +12,7 @@ export default function Home() {
         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </p>
 
-      <img src="\public\ss.png" alt="screenshot of app" width="104" height="142"></img>
+      <img src="https://drive.google.com/file/d/1QaukAxt5wgpt55CF5mVNXtBFN5PDpzeZ/view?usp=sharing" alt="screenshot of app"></img>
 
       <ul>Features of app:
         <li>managing tasks</li>
