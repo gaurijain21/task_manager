@@ -12,7 +12,7 @@ export default function Home() {
         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </p>
 
-      <img src="C:\Gauri\GitHub\task_manager\app\ss.png" alt="screenshot of app" width="104" height="142"></img>
+      <img src="\public\ss.png" alt="screenshot of app" width="104" height="142"></img>
 
       <ul>Features of app:
         <li>managing tasks</li>
