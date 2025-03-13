@@ -3,7 +3,7 @@ export default function Home() {
     <div>
       <h1>Welcome to the Task Manager</h1>
       
-      <p><b>This <i>is </i>pargraph 1.</b>
+      <p><b><i><u>This is pargraph 1.</u></i></b>
         <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</i>
         Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
