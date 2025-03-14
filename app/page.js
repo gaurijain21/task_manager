@@ -12,7 +12,7 @@ export default function Home() {
         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </p>
 
-      <img src="https://raw.githubusercontent.com/gaurijain21/task_manager/main/public/ss.png" alt="app screenshot" border="5 solid yellow"></img>
+      <img src="https://raw.githubusercontent.com/gaurijain21/task_manager/main/public/ss.png" alt="app screenshot" style={{ border: "5px solid yellow" }}></img>
 
       <ul>Features of app:
         <li>managing tasks</li>
